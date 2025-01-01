@@ -28,7 +28,7 @@ const Navbar = () => {
       <div>
         <Link href="/">
           <Image
-            src="https://media.licdn.com/dms/image/D5603AQFKI08t3_Zjyg/profile-displayphoto-shrink_800_800/0/1719243622899?e=1725494400&v=beta&t=7Cs0UWZfYffaOIcbf_L2fyRGiUVMUAHTRFAok2I3UAA"
+            src="/images/profilepic.jpeg"
             width={120}
             height={200}
             className="rounded-full object-fit w-[50px] h-[50px]"
