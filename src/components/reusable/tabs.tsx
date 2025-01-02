@@ -10,7 +10,7 @@ const tabs = [
   { name: "About", path: "/" },
   { name: "Skills", path: "/skills" },
   { name: "Blogs", path: "/blogs" },
-  { name: "Uses", path: "/uses" },
+  // { name: "Uses", path: "/uses" },
   { name: "Newsletter", path: "/newsletter" },
   { name: "Contact", path: "/contact" },
 ];
