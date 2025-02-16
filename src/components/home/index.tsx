@@ -10,7 +10,7 @@ const About = () => {
   return (
     <div className="">
       <p className="text-gray-500">
-        {`I'm Raviteja, a seasoned software engineer from Bengaluru, India, with 9 years of experience in crafting scalable web-based applications. My technical proficiency spans Java/J2EE technologies, Spring Boot, Microservices architecture, RESTful web services, Hibernate, React, MySQL, Redis, and RabbitMQ. Additionally, I possess in-depth knowledge of ERP, Retail, and Banking domains, enabling me to deliver industry-specific solutions.`}
+        {`I'm Raviteja, a seasoned software engineer from Bengaluru, India, with 10 years of experience in crafting scalable web-based applications. My technical proficiency spans Java/J2EE technologies, Spring Boot, Microservices architecture, RESTful web services, Hibernate, React, MySQL, Redis, and RabbitMQ. Additionally, I possess in-depth knowledge of ERP, Retail, and Banking domains, enabling me to deliver industry-specific solutions.`}
       </p>
     </div>
   );
